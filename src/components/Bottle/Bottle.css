@@ -1,0 +1,13 @@
+.bottle{
+    border:  2px solid sienna;
+    padding:  10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.bottle img{
+    width: 200px;
+}
+.bottle button{
+    background-color: blueviolet;
+    color: beige;
+}
